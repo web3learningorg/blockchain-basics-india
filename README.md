@@ -1,4 +1,4 @@
-# Blockchain Basics – Web3 Learning Path (India)
+# Blockchain Basics – Web3 Learning Path 
 
 A beginner-friendly blockchain learning roadmap covering fundamentals, architecture, and real-world use cases, with a focus on India.
 
