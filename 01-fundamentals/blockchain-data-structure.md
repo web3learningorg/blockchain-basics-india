@@ -18,8 +18,7 @@ You’ll understand **why blockchain was created**, **how it works**, and **wher
 ---
 
 ### 🔗 Read the Full Article
-👉 **From Concept to Crypto: The Blockchain Revolution Unveiled
-(https://www.thebulletinbriefs.in/web3forindia/blockchain-basics/from-concept-to-crypto-the-blockchain-revolution-unveiled)**
+👉 **[From Concept to Crypto: The Blockchain Revolution Unveiled](https://www.thebulletinbriefs.in/web3forindia/blockchain-basics/from-concept-to-crypto-the-blockchain-revolution-unveiled)**
 
 ---
 
