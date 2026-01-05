@@ -1,6 +1,6 @@
 ## 🧩 Blockchain Architecture — Short Summary
 
-By 2025, nearly **10% of the world’s GDP** could be secured using blockchain technology.  
+By 2026, nearly **10% of the world’s GDP** could be secured using blockchain technology.  
 But what actually makes blockchain so secure that even the world’s most powerful supercomputers can’t cheat it?
 
 This article breaks down **blockchain architecture in a simple, student-friendly way**, explaining how **nodes, blocks, transactions, consensus mechanisms, and Proof of Work** work together to form a secure, decentralized, and tamper-proof system. You’ll clearly understand the **structure of a block**, **how transactions are verified**, the difference between **distributed vs decentralized ledgers**, and why blockchain security goes far beyond cryptocurrencies.
